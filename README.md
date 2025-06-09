@@ -21,4 +21,5 @@ Departments referring the most patients: General practice, orthopedics, neurolog
 Increase staffing during peak hours to reduce wait times.  Improve workflow efficiency to increase the percentage of patients seen within 30 minutes.
 
 ## SCREENSHOT
-(https://github.com/MANSI-AGARWAL-19/HOSPITAL-EMERGENCY-ROOM-DASHBOARD/blob/main/HOSPITAL%20EMERGENCY%20ROOM%20DASHBOARD%20SCREENSHOT.jpg)
+
+![HOSPITAL EMERGENCY ROOM DASHBOARD SCREENSHOT](https://github.com/user-attachments/assets/5507ee4f-b4a9-4f5f-9550-37edc7151819)
